@@ -7,5 +7,5 @@ This is a simple python script to plot data from a csv
 The only argument is the location of a CSV file. If a directory is supplied, the tool will attempt to batch process the files in the supplied directory. 
 
 ```
-python run.py <path to file/dir> 
+python plot.py <path to file/dir> 
 ```
